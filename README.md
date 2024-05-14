@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm `May`. 
 
-<!--
-**nattida-may/nattida-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Nickname: <b>May</b> <br>
+Address: <b>Bangkok, Thailand</b> <br>
+</p>
 
-Here are some ideas to get you started:
+## Contact
+- **Email**: [nattida.w@masuru.in.th](mailto:nattida.w@masuru.in.th)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Work Position
+- **Founder of [Masuru](https://masuru.in.th)**
+  - Project Manager
+  - Full-Stack Developer
+  - Data Analysis
+  - Marketing
+- **Founder of [Furimoe](https://furimoe.masuru.in.th)**
+  - Project Manager
+  - Full-Stack Developer
+  - Marketing
+  - Data Analysis
+
+
+## Projects
+- **[Masuru](https://masuru.in.th)**
+- **[Furimoe](https://furimoe.masuru.in.th)**
+
+
